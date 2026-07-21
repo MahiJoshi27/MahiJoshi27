@@ -1,6 +1,10 @@
-# 💫 About Me:
-🎓 Computer Science undergraduate at Sharda University, specializing in full-stack web development and data analysis<br>💻 Skilled in React.js, Node.js, Express.js, with a strong foundation in C++, Python, SQL, JavaScript<br>📊 Experienced in data analysis using SQL, Excel, and Power BI — turning structured datasets into actionable insights<br>🛠️ Built projects including an Appointment Booking Interface, Swiggy Business Funnel Analysis, and IPL Data Analysis Dashboard<br>🌐 Core Committee Member at ONC Open Source NCR Community, contributing to event coordination and outreach<br>🎯 Seeking internship opportunities to apply my technical skills to real-world problem solving<br>💬 Feel free to connect for collaboration on web development or data analytics projects
 
+# 💫 About Me:
+🎓3rd Year B.Tech CSE(AI/ML) student at Sharda University, Greater Noida 8.8CGPA
+🌐 SPR (Student-Placement-Representative) @Sharda University, Greater Noida || Core Committee Member at ONC Open Source NCR Community, contributing to event coordination and outreach.
+🛠️Currently working on A real-time, full-stack travel listing platform built using the MERN stack — enabling seamless destination discovery and listing management. Currently in development.
+📊 Front-End Developer Intern @Alfido Tech | LLM intern @Ethara.ai 
+💬Open to : AI/ML Engineer Roles || Full-Stack Internships.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahi-joshi-163102327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmahi0432@gmail.com) 
