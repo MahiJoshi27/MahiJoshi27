@@ -1,10 +1,10 @@
 
 # 💫 About Me:
-🎓3rd Year B.Tech CSE(AI/ML) student at Sharda University, Greater Noida 8.8CGPA<br>
-🌐 SPR (Student-Placement-Representative) @Sharda University, Greater Noida || Core Committee Member at ONC Open Source NCR Community, contributing to event coordination and outreach.<br>
-🛠️Currently working on A real-time, full-stack travel listing platform built using the MERN stack — enabling seamless destination discovery and listing management. Currently in development.<br>
-📊 Front-End Developer Intern @Alfido Tech | LLM intern @Ethara.ai <br>
-💬Open to : AI/ML Engineer Roles || Full-Stack Internships.<br>
+• 🎓3rd Year B.Tech CSE(AI/ML) student at Sharda University, Greater Noida 8.8CGPA<br/> <br/>
+• 🌐 SPR (Student-Placement-Representative) @Sharda University, Greater Noida || Core Committee Member at ONC Open Source NCR Community, contributing to event coordination and outreach.<br/> <br/>
+• 🛠️Currently working on A real-time, full-stack travel listing platform built using the MERN stack — enabling seamless destination discovery and listing     management. Currently in development.<br/> <br/>
+•  📊 Front-End Developer Intern @Alfido Tech | LLM intern @Ethara.ai <br/> <br/>
+•  💬Open to : AI/ML Engineer Roles || Full-Stack Internships.<br/> <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahi-joshi-163102327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmahi0432@gmail.com) 
